@@ -1,2 +1,5 @@
 O que é um S.O ?
- Um sistema operacional ( S.O ) é uma coleçâo de progromas que inicializam o HARDWARE do computador. Fornece rotinas básicas para controle de dispositivos.
+ Um sistema operacional ( S.O ) é uma coleçâo de progromas
+ que inicializam o HARDWARE do computador. Fornece rotinas
+ básicas para controle de dispositivos. Fornece gerênciar,
+ escalanamento e interaçâo de tarefas.
