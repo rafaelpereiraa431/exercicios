@@ -11,4 +11,5 @@ HTML = Perminte adicionar contéudos em uma páginas através de marcação
 de textos. É a estrutura ossea de um site.
 CSS = Especifica o estilo do desing do layout de uma página. É tudo
 relacionado a aparência de site.
-PHP = Dinamiza o processador de 
+PHP = Dinamiza o processador de desenvolvimento de uma página adicionada
+extensões e aplicações dinâmicas.
