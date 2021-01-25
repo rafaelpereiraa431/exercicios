@@ -1,1 +1,9 @@
-Comente o que é uma línguagem compilada
+Comente o que é uma línguagem compilada para uma interpretada.
+A interpretada ocorre quando o uso (comunente a execução)
+do código se dá análise do mesmo. A compilada é o processo
+de análise e possivelmente transformação do código fonte
+em código alvo, ou seja uso (execução, por exemplo) e dá
+em processo separado posterior, ainda que são posterior
+assim. Então aplicações que rodam interpretadas precisam 
+do código fonte enquanto que as compiladas só precisam do
+código alvo para funcionar.
